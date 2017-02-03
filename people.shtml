@@ -1,0 +1,149 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+    <head>
+        <meta name="generator" content="HTML Tidy for Linux (vers 14 June 2007), see www.w3.org" />
+        <meta http-equiv="content-type" content="text/html; charset=us-ascii" />
+
+        <title>Dr. Neil Gong Research Group</title>
+
+        <link href="css/app.css" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" src="js/swfobject.js"></script>
+
+    </head>
+
+
+    <body onunload="GUnload()">
+
+        <div id="heading">
+            <h1 id="title">Dr. Neil Gong Research Group</h1>
+
+            <h2 id="subtitle"><a href=
+                'http://www.ece.iastate.edu/'>Department of Computer Engineering</a>
+                | <a href='http://www.iastate.edu'>Iowa State
+                University</a></h2>
+                </div>
+
+
+                <div id="content">
+                <div id="navigation">
+                <a href='/'>Home</a>
+                <b href='/people.shtml'>People</b>
+                <a href='/research.shtml'>Research</a>
+                <a href='/publications.shtml'>Publications</a>
+                <a href='/contact.shtml'>Contact</a>
+                </div>
+
+
+                <div id="main_content">
+                <h2>People</h2>
+
+                <div class="profile">
+                <div class="profile_info">
+                <h3><a href="http://home.engineering.iastate.edu/~neilgong/">Dr. Neil Gong
+                </a></h3>
+
+                <p>3216 Coover Hall<br />
+                <!-- phone number <br /> -->
+                <a href="mailto:neilgong@iastate.edu">neilgong@iastate.edu</a></p>
+                </div>
+
+                <div class='profile_image'><img src="http://home.engineering.iastate.edu/~neilgong/me.jpg"  alt=
+                "" /></div>
+                </div>
+
+                <p><br /></p>
+
+                <!--<h2>Ph.D. students</h2>-->
+
+                <div class="profile">
+                <div class="profile_info">
+                <font size="4"><strong>Binghui Wang</strong></font><font size="3">, Ph.D. student (CprE)</font>
+                <p>M.S., Dalian University of Technology, China, 2015<br />
+                3201 Coover Hall<br />
+                <!-- phone number <br /> -->
+                <a href=
+                "mailto:binghui.wang89@gmail.com">binghui.wang89@gmail.com</a></p>
+                </div>
+
+                <div class="profile_image"><img src="img/avatar-binghui_wang.jpg"
+                alt="" /></div>
+                </div>
+
+                <p><br /></p>
+
+                <div class="profile">
+                <div class="profile_info">
+                <font size="4"><strong>Le Zhang</strong></font><font size="3">, Ph.D. student (CprE)</font>
+                <p>B.S., Shanghai Jiao Tong University, China, 2011<br />
+                3201 Coover Hall<br />
+                <!-- phone number <br /> -->
+                <a href=
+                "mailto:lezhang@iastate.edu">lezhang@iastate.edu</a></p>
+                </div>
+
+                <div class="profile_image"><img src="img/avatar-le_zhang.jpg"
+                alt="" /></div>
+                </div>
+
+                <p><br /></p>
+
+                <div class="profile">
+                <div class="profile_info">
+                <font size="4"><strong>Jinyuan Jia</strong></font><font size="3">, Ph.D. student (CprE)</font>
+
+                <p>B.S., University of Science and Technology of China, China,
+                2016<br />
+                3201 Coover Hall<br />
+                <!-- phone number <br /> -->
+                <a href=
+                "mailto:jinyuanjia02@gmail.com">jinyuanjia02@gmail.com</a></p>
+                </div>
+
+                <div class="profile_image"><img src="img/avatar-default.png"
+                alt="" /></div>
+                </div>
+
+                <p><br /></p>
+
+
+                <div class="profile">
+                <div class="profile_info">
+                <font size="4"><strong>Xiaoyu Cao</strong></font><font size="3">, Ph.D. student (CprE)</font>
+
+                <p>B.S., University of Science and Technology of China, China,
+                2016<br />
+                3201 Coover Hall<br />
+                <!-- phone number <br /> -->
+                <a href=
+                "mailto:xiaoyuc@iastate.edu">xiaoyuc@iastate.edu</a></p>
+                </div>
+
+                <div class="profile_image"><img src="img/avatar-default.png"
+                alt="" /></div>
+                </div>
+
+                <p><br /></p>
+
+
+                <h2>Alumni</h2>
+
+                <ul>
+
+                <!--
+
+                <li><a href="sample link">Alumini Name
+                </a>, Ph.D. in CprE, 2015, now at Company Name,
+                Inc., Menlo Park, CA</li>
+
+                 -->
+
+                </ul>
+                </div>
+                </div>
+                </body>
+                </html>

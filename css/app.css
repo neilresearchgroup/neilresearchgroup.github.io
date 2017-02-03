@@ -1,0 +1,193 @@
+@font-face
+{
+    font-family: "RockwellLight";
+    src: url(RockwellLight.TTF) format("truetype");
+}
+@font-face
+{
+    font-family: "Yorkville";
+    src: url(yorkville.ttf) format("truetype");
+}
+
+}
+@font-face
+{
+    font-family: "TrendexLightSSi";
+    src: url(TrendexLightSSi.TTF) format("truetype");
+}
+
+div
+{
+    display: block;
+}
+
+body
+{
+    font-family: Helvetica,"RockwellLight", Times;
+    font-size: 11pt;
+    width: 1200px;
+    text-decoration:none;
+    text-transform:none;
+}
+
+#wrapper
+{
+    width: 900px;
+}
+
+#heading
+{
+    border-bottom: 1px solid rgb(180, 0, 0);
+    margin-bottom: 0px;
+    display: block;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#title
+{
+    font-family: "Yorkville", Regular;
+    font-size: 30pt;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+    display: inline;
+    color: rgb(123,12,0);
+}
+
+#subtitle
+{
+    margin-top: 3px;
+    padding-top: 0px;
+    display: block;
+    font-size: 13pt;
+    font-weight: bold;
+    color: rgb(180, 0, 0);
+}
+
+#subtitle a
+{
+    text-decoration: none;
+    color: rgb(180, 0, 0);
+}
+
+#content
+{
+    margin-left: 50px;
+    margin-bottom: 100px;
+    text-decoration: none;
+}
+
+#navigation
+{
+    width: 125px;
+    float: left;
+}
+
+#main_content
+{
+    margin-left: 165px;
+    text-decoration: none;
+}
+
+#main_content a
+{
+    text-decoration: none;
+}
+
+#main_content img
+{
+    border:0;
+}
+
+#navigation a
+{
+    display: block;
+    padding: 10px;
+    background: rgb(255,255,255);
+    text-decoration: none;
+    color: black;
+    border: solid;
+    border-width: 0px 0px thin 0px;
+    border-color: red red rgb(204, 0, 0) red;
+}
+
+#navigation a a
+{
+    display: none;
+    
+}
+
+#navigation a:hover
+{
+    background: rgb(204, 0, 0);
+    color: white;
+}
+
+#navigation a:hover a
+{
+    display: block;
+}
+
+#navigation b
+{
+    background: rgb(204, 0, 0);
+    color: white;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    border: solid;
+    border-width: 0px 0px thin 0px;
+    border-color: red red rgb(204, 0, 0) red;
+}
+
+.profile_image
+{
+    margin: 10px 10px;
+}
+
+.profile_image img
+{
+    height: 200px;
+    vertical-align: middle;
+}
+
+.profile_info
+{
+    margin: 10px 0px;
+    float: left;
+    width: 500px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.profile_info h3
+{
+    margin-top: 0px;
+}
+
+.profile_info a
+{
+    text-decoration: none;
+    margin-top: 0px;
+}
+
+li
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+}
+
+.rightwrap
+{
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
